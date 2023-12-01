@@ -1,0 +1,6 @@
+C:\Users\aleag\source\repos\GestorCitas\GestorCitas\obj\Debug\net8.0-windows\Formulario.baml
+C:\Users\aleag\source\repos\GestorCitas\GestorCitas\obj\Debug\net8.0-windows\Formulario.g.cs
+C:\Users\aleag\source\repos\GestorCitas\GestorCitas\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\aleag\source\repos\GestorCitas\GestorCitas\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\aleag\source\repos\GestorCitas\GestorCitas\obj\Debug\net8.0-windows\GestorCitas_MarkupCompile.cache
+C:\Users\aleag\source\repos\GestorCitas\GestorCitas\obj\Debug\net8.0-windows\GestorCitas_MarkupCompile.lref
